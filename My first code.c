@@ -2,6 +2,6 @@
 
 int main (void)
 {
-	printf("C programming is too hard to explain.");
+	printf("C programming");
 	return 0;
 }
